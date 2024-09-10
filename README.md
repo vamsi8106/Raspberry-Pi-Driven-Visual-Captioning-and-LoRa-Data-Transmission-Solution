@@ -1,0 +1,1 @@
+# Raspberry-Pi-Driven-Visual-Captioning-and-LoRa-Data-Transmission-Solution
